@@ -1,19 +1,26 @@
-# Credit_Card_Financial_Dashboard
-CREDIT CARD WEEKLY STATUS REPORT Project Objective To develop a comprehensive credit card weekly dashboard that provides real-time insights into key Import data to SQL database 
-1. Prepare csv file
-2. 2. Create tables in SQL
-   
+# Credit Card Financial Dashboard – Power BI + Databricks
+This project showcases an end‑to‑end Credit Card Financial Analytics Dashboard built using Databricks for data engineering and Power BI for interactive reporting.
+The solution provides a comprehensive view of customer behaviour, revenue performance, transaction trends, and card usage insights to support data‑driven decision‑making for financial institutions.
 
-# Credit Card Analytics Dashboard This repository contains interactive dashboards built to analyze credit card customer behavior and transaction patterns. 
+# Connected Power BI directly to Databricks Lakehouse to access large credit‑card customer and transaction datasets stored in Delta tables.
+ Used PySpark and SQL in Databricks notebooks to clean, transform, and model raw data.
+ Created optimised Delta tables for fast querying and incremental refresh in Power BI.
+ The dataset includes customer demographics, transaction details, card categories, revenue metrics, and expenditure patterns, enabling deep analysis across multiple        business dimensions.
 
-The visualizations are designed to support business decisions, marketing strategies, and risk assessments. 
-## 📊 Dashboards Included 
+# Analytics & Visualization
+Power BI
+DAX Measures
+Data Modelling (Star Schema)
+Handled missing values, corrected data types, and standardised fields.
+Joined customer and transaction tables to build a unified analytical dataset.
+Weekly revenue
+Revenue by age, income, job, education
+Transaction volume and amount
+Card category performance
 
-## 1. Credit Card Customer Report - Revenue breakdown by age, income, education, marital status, and job type - Geographic distribution of top-performing states - Customer satisfaction and interest metrics - Filters for quarter, gender, transaction type, and card category 
-
-## 2. Credit Card Transaction Report - Transaction volume and revenue by card category - Quarterly performance trends - Revenue by chip usage and expenditure type - Demographic insights by education and employment ## 🔍 Key Features - Dynamic filtering for deeper segmentation - Clear visual comparisons across customer groups - Business intelligence-ready metrics for strategic planning 
-
-🛠️ Technologies Used - Power BI,DAX,SQL,Data cleaning) - Data sourced from anonymized credit card transaction logs 
-
-
-## 📈 Use Cases - Customer segmentation - Revenue optimization - Marketing targeting 
+# This dashboard helps financial institutions:
+Identify high‑value customer segments
+Optimise marketing strategies for card upgrades
+Understand spending patterns for targeted offers
+Improve customer satisfaction and retention
+Monitor revenue and transaction performance in real time
