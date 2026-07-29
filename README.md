@@ -1,4 +1,4 @@
-Credit Card Financial Dashboard – SQL, Alteryx & Power BI-
+📁 Credit Card Financial Dashboard – SQL, Alteryx & Power BI-
 
 Project Overview-
 
@@ -6,7 +6,7 @@ This project showcases an end-to-end Credit Card Financial Analytics Dashboard b
 
 The dashboard analyses 657K credit card transactions and £55M in revenue, helping stakeholders monitor business performance, customer spending patterns, and key financial metrics.-
 
-Project Objectives-
+📁 Project Objectives-
 Analyse credit card revenue and transaction performance.
 Monitor customer spending behaviour across different demographics.
 Perform data validation, reconciliation, and quality checks.
@@ -14,14 +14,14 @@ Automate data preparation and reporting processes.
 Build executive-level dashboards for business decision-making.
 
 
-Technologies Used
+🛠️Technologies Used
 SQL – Data extraction, transformation, validation, and reconciliation
 Alteryx – Data preparation, cleansing, workflow automation, and ETL
 Power BI – Dashboard development, data modelling, DAX, and interactive visualisations
 Data Preparation
 
 
-The project includes extensive data preparation before visualisation:
+🚀The project includes extensive data preparation before visualisation:
 
 Performed data validation and reconciliation using SQL.
 Cleaned and transformed raw datasets using Alteryx.
@@ -31,7 +31,7 @@ Joined customer and transaction datasets into a unified analytical model.
 Created a star schema data model for efficient reporting in Power BI.
 
 
-Dashboard Features
+🚀Dashboard Features
 The Power BI dashboard provides interactive analysis of:
 
 Financial Performance
@@ -69,7 +69,7 @@ Transaction Trends
 Card Usage Analysis
 Business Value
 
-This dashboard enables financial institutions to:
+📷This dashboard enables financial institutions to:
 
 Monitor revenue performance in real time.
 Identify high-value customer segments.
@@ -78,7 +78,7 @@ Improve reporting accuracy through automated workflows.
 Support strategic business decisions with interactive analytics.
 
 
-Key Skills Demonstrated
+📌Key Skills Demonstrated
 SQL
 Power BI
 Alteryx
@@ -104,6 +104,6 @@ Repository Contents
 ├── Dashboard Screenshots
 └── README.md
 
-Dashboard Screenshots-
+📷Dashboard Screenshots-
 https://github.com/priya00811-beep/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20transaction%20report.pdf
 https://github.com/priya00811-beep/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20transaction%20report.pdf
