@@ -105,3 +105,5 @@ Repository Contents
 └── README.md
 
 Dashboard Screenshots-
+https://github.com/priya00811-beep/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20transaction%20report.pdf
+https://github.com/priya00811-beep/Credit_Card_Financial_Dashboard/blob/main/credit%20card%20transaction%20report.pdf
